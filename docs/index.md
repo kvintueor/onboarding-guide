@@ -1,4 +1,4 @@
-# Intueor Githb New User Onboarding Guide
+# Github New User Onboarding Guide
 
 Welcome to Intueor!
 
@@ -14,8 +14,8 @@ You’ll need a new Outlook email address for your Intueor Github account.
 - Click **Create free account**
 - For your email address, use your Intueor username.
   - **For example:**  
-    - If your name is Chris, your email should be `crodes@outlook.com`
-    - Replace "crodes" with your own Intueor username (ask your manager if unsure)
+    - If your name is Chris Rhodes, your email should be `crintueor@outlook.com`
+    - Replace the initial "cr" with your own initials. In case , this username is already taken, you can add the next character of your first name (example chrintueor@outlook.com), to try next, and then add last name (example, chrointueor@outlook.com) if needed to form a unique email address. 
 - Complete the signup process, set a strong password, and verify your email.
 
 ---
@@ -25,12 +25,16 @@ You’ll need a new Outlook email address for your Intueor Github account.
 Now, use your new Outlook email to set up a GitHub account.
 
 - Go to [GitHub Signup](https://github.com/join)
-- Enter your new Outlook email address (e.g., `crodes@outlook.com`)
-- Choose a username and password (your GitHub username does not have to be the same as your Intueor username)
+- Enter your new Outlook email address (e.g., `crintueors@outlook.com`)
+- Choose a username same as new outlook email and password 
 - Complete the signup steps and verify your email
 
 ---
 
 **You are now ready to access Intueor’s GitHub resources!**
 
-If you have any trouble, please contact your team lead.
+If you have any trouble, please contact me here kvintueor@outoook.com.
+
+Thanks,
+Kiru. V 
+
